@@ -6,6 +6,5 @@ In this folder you can find a model implementation for each of the techniques li
 * Image Classification
 * Image Segmentation
 * Visual Question Answering
-\
 
 In addition to the code, we have written down reviews to describe and analyze the obtained results.
